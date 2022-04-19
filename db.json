@@ -33,7 +33,7 @@
       "companyId": "1"
     }
   ],
-  "items": [
+  "producta": [
     {
       "id": "000000000122",
       "class": "singleSofa",
@@ -83,7 +83,7 @@
       "imgno": "4"
     }
   ],
-  "producta": [
+  "productb": [
     {
       "id": "000000000301",
       "class": "singleSofa",
@@ -132,5 +132,93 @@
       "unpdate": "OKhttps://unsplash.com/@srosinger3997",
       "imgno": "3"
     }
-  ]
+  ],
+  "prodcutc":[
+    {
+      "id": "000000000642",
+      "class": "table",
+      "title": "Small Table",
+      "size": "W:730 D:730 H:520",
+      "price": "120000",
+      "material": "rosewood",
+      "color": "rosewood",
+      "descript": "デンマーク製のスモールテーブルです。直線的なフォルムにローズウッドのはっきりとした木目が美しく映えます。",
+      "unpdate": "OK",
+      "imgno": "3"
+    },
+    {
+      "id": "000000000657",
+      "class": "飾口雜貨",
+      "title": "Vase designed by Johanne Gerber",
+      "size": "W:76 D:76 H:220",
+      "price": "19200",
+      "material": "pottery",
+      "color": "",
+      "descript": "Royal Copenhagen VACAシリーズの花瓶。Johanne Gerberによるデザインです。陶器の下地として錫釉を使用するファイアンス焼きを採用しており、明るい色は鮮やかに発色することで暗い色とのコントラストが際立つ表現が特徴です。ハンドペインティングのため、絵付師によって同じパターンのものでも風合いが若干異なります。",
+      "unpdate": "OK\n",
+      "imgno": "3"
+    },
+    {
+      "id": "000000000658",
+      "class": "飾口雜貨",
+      "title": "Dish designed by Nils Thorsson",
+      "size": "W:115 D:115 H:28",
+      "price": "13200",
+      "material": "pottery",
+      "color": "",
+      "descript": "oyal Copenhagen BACAシリーズのスクエアディッシュ。ニールス・トーソンによるデザイン。鳥の羽に描かれた花のワンポイントが魅力です。ブルーと薄っすらと青みを帯びたホワイトの配色はコントラストがきつくなりすぎず柔らかい印象です。さらにオレンジをさし色として入れることで温かみも感じられます。陶器の下地として錫釉を使用するファイアンス焼きを採用しており、明るい色は鮮やかに発色することで暗い色とのコントラストが際立つ表現が特徴です。ハンドペインティングのため、絵付師によって同じパターンのものでも風",
+      "unpdate": "OK",
+      "imgno": "2"
+    }
+  ],
+   "productd":[
+     {
+       "id": "000000000672",
+       "class": "LAMP/照明器具",
+       "title": "Table Lamp",
+       "size": "W:360 D:360 H:860",
+       "price": "51600",
+       "material": "pottery",
+       "color": "",
+       "descript": "デンマークで見つけた陶器ベースのテーブルランプです。陶器の表面に施された色彩とパターンが空間を明るく演出します。ストリングシェードは見た目のスマートさを引き立てるだけではなく、点灯時の印象も独自の雰囲気",
+       "unpdate": "OK",
+       "imgno": "3"
+     },
+     {
+       "id": "000000000692",
+       "class": "BUREAU/ビューロー",
+       "title": "BureauBUREAU / ビューロー",
+       "size": "W:880 D:420 H:1080",
+       "price": "170000",
+       "material": "teak/oak",
+       "color": "teak",
+       "descript": "ビューローデンマーク製のライティングビューローです。チークのボディ部、\nオークの脚部ともフルサンディングを行いオイルで仕上げました。\n背面のベニヤは一部破れが見られたため新たに張り替え済みです。",
+       "unpdate": "OK",
+       "imgno": "4"
+     },
+     {
+       "id": "000000000762",
+       "class": "飾口雜貨",
+       "title": "Square Dish by Ellen Malmer",
+       "size": "W:217 D:217 H:44",
+       "price": "12000",
+       "material": "pottery",
+       "color": "",
+       "descript": "スクエアディッシュRoyal Copenhagen SIENAシリーズのスクエアディッシュ。エレン・マルマーによるデザインです。\nSIENAはBAKAに比べ形状が丸みを帯びており、色彩もイタリアの都市シエナの黄金色をした土から名付けられただけあり優しい黄金色がベースになっています。",
+       "unpdate": "OK\n",
+       "imgno": "4"
+     },
+     {
+       "id": "000000000810",
+       "class": "CHAIR/椅子",
+       "title": "【3脚セット】Bar Stool",
+       "size": "W:365 D:365 H:790",
+       "price": "186000",
+       "material": "leather / teak",
+       "color": "leather / t",
+       "descript": "デンマーク製のバースツールです。チークの脚部とブラックレザーの座面にフットスタンドのシルバーが良いアクセントになっています。古き良き時代を思わせるバーの雰囲気を演出するのに最適なアイテムです。脚部はフルサンディングの後、オイルで仕上げる予定です。",
+       "unpdate": "Ok\n",
+       "imgno": "2"
+     }
+   ]
 }
