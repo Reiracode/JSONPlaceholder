@@ -83,54 +83,54 @@
       "imgno": "4"
     }
   ],
-  "items1": [
+  "producta": [
     {
-      "id": "000000000122",
+      "id": "000000000301",
       "class": "singleSofa",
-      "title": "No.209 Diplomat Chair by Finn Juhl",
-      "size": "W:700 D:670 H:800 (SH460)",
-      "price": "184000",
-      "material": "fabric/rosewood",
-      "color": "red",
-      "descript": "フィン・ユールによるこの椅子は外交官のためにデザインされたことからdiplomat（ディプロマット：外交官）チェアと呼ばれます。在日デンマーク大使館でも長年に渡り使用されてきました。",
-      "unpdate": "OK",
+      "title": "High back Chair",
+      "size": "W:710 D:810 H:910(SH:410)",
+      "price": "290000",
+      "material": "fabric/teak",
+      "color": "purple",
+      "descript": "デンマークで見つけたハイバックチェアです。フォームがウェグナーのベアチェアを彷彿とさせるスタイルで、座ってみると更に強く感じることが出来ます。特に広く作られている背中部分はホールド感が高く、\n手を置く位置に設えられた木製のパーツは心地よく馴染みます。",
+      "unpdate": "OK. https://unsplash.com/@michsole",
       "imgno": "3"
     },
     {
-      "id": "000000000203",
-      "class": "table",
-      "title": "#40 Sewing Table by Severin Hansen Jr",
-      "size": "W:590 D:440 H:520",
-      "price": "135000",
-      "material": "teak",
-      "color": "teak",
-      "descript": "severin hansen jrは 1950年代から60年代初めにかけて、haslevの小さな町にある家具メーカー、haslevmøbelsnedkeriでロイヤルコペンハーゲンとのコラボレート作品を多く手がけたことで知られています。\n彼は素材としてローズウッドを使うことが多く、チーク材を使用した作品は珍しい部類に入ります。",
-      "unpdate": "Ok\n",
-      "imgno": "3"
-    },
-    {
-      "id": "000000000213",
-      "class": "singleSofa",
-      "title": "GE240 3seaters sofa by Hans J Wegner",
-      "size": "W:1750 D:790 H:750(SH420)",
-      "price": "680000",
-      "material": "fabric/teak/oak",
+      "id": "000000000370",
+      "class": "multiSofa",
+      "title": "GE290 3seaters sofa by Hans J Wegner",
+      "size": "W:1810 D:830 H:730 (SH410)",
+      "price": "591000",
+      "material": "fabric/oak",
       "color": "check",
-      "descript": "ハンス・J・ウェグナーのGE240ソファです。アームの形状が葉巻に似ていることからシガーとも呼ばれたこちらのソファは290とまた一味違う、丸みを帯びた優しいデザインです。\nベースのオークにチークのアームが映えます。",
+      "descript": "1953年にGETAMA社より発売されたGE290はウェグナーの名前とともに世界に広がり、2018年には65周年を迎える超ロングセラー。頑強なオークフレームは半世紀を経た今でも揺るぎなく、安心して次の50年を託せる力強さです。",
       "unpdate": "OK",
-      "imgno": "2"
+      "imgno": "3"
     },
     {
-      "id": "000000000291",
-      "class": "singleSofa",
-      "title": "Easy Chair",
-      "size": "W:800 D:870 H:970 (SH440)",
-      "price": "120000",
-      "material": "fabric/rosewood",
-      "color": "gray",
-      "descript": "デンマーク製のやや大き目のハイバックイージーチェア。肩からアームの先にかけて流れるカーブはエレガントな印象で、落ち着いた色調のファブリックと共に居住空間に上質な空気感をもたらしてくれるのではないでしょうか。",
-      "unpdate": "OK\n",
-      "imgno": "4"
+      "id": "000000000416",
+      "class": "飾口雜貨",
+      "title": "Jug designed by Berte Jessen",
+      "size": "W:145 D:120 H:125",
+      "price": "19800",
+      "material": "potter",
+      "color": "",
+      "descript": "Royal Copenhagen Teneraシリーズの水差し。ベルテ・イェッセンによるデザイン。陶器の下地として錫釉を使用するファイアンス焼きを採用しており、明るい色は鮮やかに発色することで暗い色とのコントラストが際立つ表現が特徴です。釉薬の色が混じり合う様子が非常に美しく、細かな凹凸が光を受けてキラキラと輝くことで繊細なデザインがより引き立ちます。こちらはヴィンテージアイテムになりますが目立った汚れやダメージもなく、良好なコンディションです。",
+      "unpdate": "https://unsplash.com/@jtylernix OK",
+      "imgno": "3"
+    },
+    {
+      "id": "000000000470",
+      "class": "LAMP/照明器具",
+      "title": "Metal Lamp",
+      "size": "W:650 D:650 H:650",
+      "price": "140000",
+      "material": "metal",
+      "color": "",
+      "descript": "デンマークで見つけたヴィンテージメタルランプです。５つの灯りがガラスによって優雅に広がります。電球は付属いたしませんので、E-26口径のものを5つご準備ください。",
+      "unpdate": "OKhttps://unsplash.com/@srosinger3997",
+      "imgno": "3"
     }
   ]
 }
